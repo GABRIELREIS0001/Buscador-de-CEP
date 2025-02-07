@@ -55,3 +55,5 @@ Abra um Pull Request
 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+📧 Contato Feito por Gabriel Reis. Se tiver alguma dúvida ou sugestão, entre em contato pelo email: gabrielreisvinicius321@gmail.com.
