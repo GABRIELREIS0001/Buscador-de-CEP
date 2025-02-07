@@ -3,6 +3,7 @@
 Um aplicativo web simples e elegante para buscar informações de endereços através do CEP (Código de Endereçamento Postal) brasileiro.
 
 📋 Sobre o Projeto
+
 Este projeto é uma aplicação React que permite aos usuários consultarem informações detalhadas de endereços brasileiros usando o CEP. A aplicação consome a API ViaCEP e apresenta os dados em uma interface amigável e responsiva.
 
 ✨ Funcionalidades
